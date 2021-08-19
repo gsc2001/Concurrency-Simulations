@@ -15,3 +15,5 @@ Simulating delivery of vaccines from manufacturers to vaccination centers, vacci
 ## Question 3: Musical Mayhem
 
 Simulation of a musical concert dealing with arrival of performers, scheduling their performances as per their musical instruments and other preferences, and rewarding successful performers.
+
+**Note: Detailed explaination for each question can be found in [here](./Concurrency.pdf)**
